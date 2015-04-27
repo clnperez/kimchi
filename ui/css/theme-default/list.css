@@ -306,3 +306,21 @@
     margin-left: 5px;
     text-shadow: -1px -1px 1px #CCCCCC, 1px 1px 1px #FFFFFF;
 }
+
+.guest-create {
+    margin: 10px;
+}
+
+.guest-create .icon {
+    background: url('../../images/theme-default/kimchi-loading15x15.gif') no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.guest-create .text {
+    color: #666666;
+    margin-left: 5px;
+    text-shadow: -1px -1px 1px #CCCCCC, 1px 1px 1px #FFFFFF;
+}
